@@ -112,14 +112,16 @@
 
 <!-- ============ CONTRIBUTIONS ============ -->
 
-<h2 align="center">📈 GitHub Contribution Activity</h2>
+<h2 align="center">📈 My GitHub Contributions</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=benavides17&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=benavides17&theme=tokyonight&hide_border=true" alt="Ronald's GitHub contribution streak" width="80%" />
 </div>
 
 <p align="center">
-  <sub>Activity graph generated from the public activity on my GitHub profile.</sub>
+  <a href="https://github.com/benavides17?tab=overview&from=2026-01-01&to=2026-12-31">
+    <img src="https://img.shields.io/badge/View-All_GitHub_Activity-7AA2F7?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub activity" />
+  </a>
 </p>
 
 ---
