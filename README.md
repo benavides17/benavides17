@@ -112,14 +112,14 @@
 
 <!-- ============ CONTRIBUTIONS ============ -->
 
-<h2 align="center">🐍 GitHub Contribution Snake</h2>
+<h2 align="center">📈 GitHub Contribution Activity</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=benavides17&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%" />
+</div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/benavides17/benavides17/output/github-contribution-grid-snake.svg" alt="Animación de contribuciones de GitHub" width="100%" />
-</p>
-
-<p align="center">
-  <sub>La animación se genera automáticamente con GitHub Actions. Después de ejecutar el flujo por primera vez, puede tardar unos minutos en aparecer.</sub>
+  <sub>Activity graph generated from the public activity on my GitHub profile.</sub>
 </p>
 
 ---
