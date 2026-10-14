@@ -26,7 +26,7 @@
     <a href="mailto:benavidesbastidasfelipe@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=benavides17&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=benavides17&label=PROFILE%20VIEWS" alt="Profile views" />
   </p>
 </div>
 
